@@ -33,5 +33,5 @@ function countChance($occur, $cnt)
 $args = array_slice($argv, 1);
 
 
-//php test.php 365 2 7
+//php start.php 365 2 7
 return probability(...$args);
